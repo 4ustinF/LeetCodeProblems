@@ -77,7 +77,7 @@ std::vector<int> TwoSum(std::vector<int>& nums, int target)
 	return {-1, -1};
 }
 
-// Test the code using the examples
+//// Test the code using the examples
 //int main()
 //{
 //	std::vector<int> exampleList1 = { 2, 7, 11, 15 };
