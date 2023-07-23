@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Problems">
+      <UniqueIdentifier>{a2b328cf-d63b-46ba-ba75-a4ae18f1ab31}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Problems\01_TwoSum.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
