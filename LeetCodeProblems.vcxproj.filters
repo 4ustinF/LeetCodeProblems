@@ -9,5 +9,8 @@
     <ClCompile Include="Problems\01_TwoSum.cpp">
       <Filter>Problems</Filter>
     </ClCompile>
+    <ClCompile Include="Problems\02_AddTwoNumbers.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

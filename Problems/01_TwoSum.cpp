@@ -34,49 +34,53 @@
 	Only one valid answer exists.
 */
 
-//// First Attempt
-//std::vector<int> TwoSum(std::vector<int>& nums, int target) 
-//{
-//	for (int i = 0; i < nums.size(); ++i)
-//	{
-//		for (int j = i + 1; j < nums.size(); ++j)
-//		{
-//			if (nums[i] + nums[j] == target)
-//			{
-//				std::cout << "[" << i << ", " << j << "]" << std::endl;
-//				return { i, j };
-//			}
-//		}
-//	}
-//
-//	std::cout << "Error: No sum found" << std::endl;
-//	return {-1, -1};
-//}
-
-// Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?
-std::vector<int> TwoSum(std::vector<int>& nums, int target)
+namespace TwoSum_01
 {
-	std::unordered_map<int, int> map;
-	map.insert(std::make_pair(nums[0], 0));
+	//// First Attempt
+	//std::vector<int> TwoSum(std::vector<int>& nums, int target)
+	//{
+	//	for (int i = 0; i < nums.size(); ++i)
+	//	{
+	//		for (int j = i + 1; j < nums.size(); ++j)
+	//		{
+	//			if (nums[i] + nums[j] == target)
+	//			{
+	//				std::cout << "[" << i << ", " << j << "]" << std::endl;
+	//				return { i, j };
+	//			}
+	//		}
+	//	}
 
-	for (int i = 1; i < nums.size(); ++i)
+	//	std::cout << "Error: No sum found" << std::endl;
+	//	return { -1, -1 };
+	//}
+
+	// Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?
+	std::vector<int> TwoSum(std::vector<int>& nums, int target)
 	{
-		const int numToFind = target - nums[i];
-		const auto iter = map.find(numToFind);
+		std::unordered_map<int, int> map;
+		map.insert(std::make_pair(nums[0], 0));
 
-		if (iter != map.end())
+		for (int i = 1; i < nums.size(); ++i)
 		{
-			std::cout << "[" << iter->second << ", " << i << "]" << std::endl;
-			return { iter->second, i };
+			const int numToFind = target - nums[i];
+			const auto iter = map.find(numToFind);
+
+			if (iter != map.end())
+			{
+				std::cout << "[" << iter->second << ", " << i << "]" << std::endl;
+				return { iter->second, i };
+			}
+
+			map.insert(std::make_pair(nums[i], i));
 		}
 
-		map.insert(std::make_pair(nums[i], i));
+		std::cout << "Error: No sum found" << std::endl;
+		return { -1, -1 };
 	}
-
-	std::cout << "Error: No sum found" << std::endl;
-	return {-1, -1};
 }
 
+//using namespace TwoSum_01;
 //// Test the code using the examples
 //int main()
 //{
