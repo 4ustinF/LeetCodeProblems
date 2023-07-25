@@ -15,5 +15,8 @@
     <ClCompile Include="Problems\852_PeakIndexInAMountainArray.cpp">
       <Filter>Problems</Filter>
     </ClCompile>
+    <ClCompile Include="03_LongestSubstringWithoutRepeatingCharacters.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
