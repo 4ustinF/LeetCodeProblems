@@ -33,7 +33,7 @@
 	It is guaranteed that the list represents a number that does not have leading zeros.
 */
 
-namespace AddTwoNumber_02
+namespace Question_002
 {
 	struct ListNode
 	{
@@ -68,7 +68,7 @@ namespace AddTwoNumber_02
 	}
 }
 
-//using namespace AddTwoNumber_02;
+//using namespace Question_002;
 //// Test the code using the examples
 //int main()
 //{

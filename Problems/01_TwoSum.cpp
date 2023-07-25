@@ -34,7 +34,7 @@
 	Only one valid answer exists.
 */
 
-namespace TwoSum_01
+namespace Question_001
 {
 	//// First Attempt
 	//std::vector<int> TwoSum(std::vector<int>& nums, int target)
@@ -80,7 +80,7 @@ namespace TwoSum_01
 	}
 }
 
-//using namespace TwoSum_01;
+//using namespace Question_001;
 //// Test the code using the examples
 //int main()
 //{
