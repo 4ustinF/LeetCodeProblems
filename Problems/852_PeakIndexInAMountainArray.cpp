@@ -42,7 +42,7 @@ namespace Question_852
 	int PeakIndexInMountainArray(std::vector<int>& arr)
 	{
 		int leftIndex = 0;
-		int rightIndex = arr.size() - 1;
+		int rightIndex = static_cast<int>(arr.size()) - 1;
 		int middleIndex = 0;
 
 		while (leftIndex < rightIndex) 

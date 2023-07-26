@@ -37,7 +37,7 @@ namespace Question_003
 {
 	int LengthOfLongestSubstring(std::string s) 
 	{
-		const int stringLength = s.length();
+		const int stringLength = static_cast<int>(s.length());
 		if (stringLength == 0 || stringLength == 1)
 		{
 			return stringLength;
