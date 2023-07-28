@@ -27,5 +27,8 @@
     <ClCompile Include="04_MedianOfTwoSortedArrays.cpp">
       <Filter>Problems</Filter>
     </ClCompile>
+    <ClCompile Include="Problems\09_PalindromeNumber.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
