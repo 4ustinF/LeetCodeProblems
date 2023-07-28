@@ -21,5 +21,11 @@
     <ClCompile Include="Problems\1870_MinimumSpeedtoArriveonTime.cpp">
       <Filter>Problems</Filter>
     </ClCompile>
+    <ClCompile Include="486_PredictTheWinner.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="04_MedianOfTwoSortedArrays.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

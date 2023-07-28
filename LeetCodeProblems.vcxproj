@@ -20,6 +20,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="03_LongestSubstringWithoutRepeatingCharacters.cpp" />
+    <ClCompile Include="04_MedianOfTwoSortedArrays.cpp" />
+    <ClCompile Include="486_PredictTheWinner.cpp" />
     <ClCompile Include="Problems\01_TwoSum.cpp" />
     <ClCompile Include="Problems\02_AddTwoNumbers.cpp" />
     <ClCompile Include="Problems\1870_MinimumSpeedtoArriveonTime.cpp" />
