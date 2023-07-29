@@ -30,5 +30,8 @@
     <ClCompile Include="Problems\09_PalindromeNumber.cpp">
       <Filter>Problems</Filter>
     </ClCompile>
+    <ClCompile Include="Problems\11_ContainerWithMostWater.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

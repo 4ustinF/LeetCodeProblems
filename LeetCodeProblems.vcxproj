@@ -25,6 +25,7 @@
     <ClCompile Include="Problems\01_TwoSum.cpp" />
     <ClCompile Include="Problems\02_AddTwoNumbers.cpp" />
     <ClCompile Include="Problems\09_PalindromeNumber.cpp" />
+    <ClCompile Include="Problems\11_ContainerWithMostWater.cpp" />
     <ClCompile Include="Problems\1870_MinimumSpeedtoArriveonTime.cpp" />
     <ClCompile Include="Problems\852_PeakIndexInAMountainArray.cpp" />
   </ItemGroup>
