@@ -57,22 +57,18 @@
 //{
 //	int removeElement(std::vector<int>& nums, int val)
 //	{
-//		int leftIndex = 0;
-//		int rightIndex = static_cast<int>(nums.size()) - 1;
+//		int index = 0;
+//		const int numSize = static_cast<int>(nums.size());
 //
-//		while (leftIndex < rightIndex)
+//		for (int i = 0; i < numSize; ++i)
 //		{
-//			if (nums[leftIndex] == val)
+//			if (nums[i] != val) 
 //			{
-//				std::swap(nums[leftIndex], nums[rightIndex]);
-//				rightIndex--;
-//				continue;
+//				nums[index] = nums[i];
+//				index++;
 //			}
-//
-//			leftIndex++;
 //		}
-//
-//		return leftIndex + 1;
+//		return index;
 //	}
 //}
 //
@@ -80,15 +76,19 @@
 //// Test the code using the examples
 //int main()
 //{
-//	// Example 1
+//	// Example 1 = 2
 //	std::vector<int> list1 = { 3,2,2,3 };
 //	std::cout << removeElement(list1, 3) << std::endl;
 //
-//	// Example 2
+//	// Example 2 = 5
 //	std::vector<int> list2 = { 0,1,2,2,3,0,4,2 };
 //	std::cout << removeElement(list2, 2) << std::endl;
 //
-//	// Example 2
+//	// Example 3
 //	std::vector<int> list3 = { };
 //	std::cout << removeElement(list3, 0) << std::endl;
+//
+//	// Example 4
+//	std::vector<int> list4 = { 1 };
+//	std::cout << removeElement(list4, 1) << std::endl;
 //}
