@@ -42,5 +42,8 @@
     <ClCompile Include="Problems\35_SearchInsertPosition.cpp">
       <Filter>Problems</Filter>
     </ClCompile>
+    <ClCompile Include="Problems\46_Permutations.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
