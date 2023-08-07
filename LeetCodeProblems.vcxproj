@@ -25,6 +25,7 @@
     <ClCompile Include="486_PredictTheWinner.cpp" />
     <ClCompile Include="Problems\01_TwoSum.cpp" />
     <ClCompile Include="Problems\02_AddTwoNumbers.cpp" />
+    <ClCompile Include="Problems\07_ReverseInteger.cpp" />
     <ClCompile Include="Problems\09_PalindromeNumber.cpp" />
     <ClCompile Include="Problems\11_ContainerWithMostWater.cpp" />
     <ClCompile Include="Problems\1870_MinimumSpeedtoArriveonTime.cpp" />
@@ -121,6 +122,7 @@
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <TreatWarningAsError>true</TreatWarningAsError>
+      <LanguageStandard>stdcpp14</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
