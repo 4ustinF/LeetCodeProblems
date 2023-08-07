@@ -45,5 +45,8 @@
     <ClCompile Include="Problems\46_Permutations.cpp">
       <Filter>Problems</Filter>
     </ClCompile>
+    <ClCompile Include="06_ZigzagConversion.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
