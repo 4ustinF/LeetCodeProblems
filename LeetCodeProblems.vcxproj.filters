@@ -51,5 +51,8 @@
     <ClCompile Include="Problems\07_ReverseInteger.cpp">
       <Filter>Problems</Filter>
     </ClCompile>
+    <ClCompile Include="Problems\66_PlusOne.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
