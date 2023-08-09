@@ -54,5 +54,8 @@
     <ClCompile Include="Problems\66_PlusOne.cpp">
       <Filter>Problems</Filter>
     </ClCompile>
+    <ClCompile Include="Problems\2616_MinimizeTheMaximumDifferenceOfPairs.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
