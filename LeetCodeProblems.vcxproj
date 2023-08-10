@@ -35,6 +35,7 @@
     <ClCompile Include="Problems\35_SearchInsertPosition.cpp" />
     <ClCompile Include="Problems\46_Permutations.cpp" />
     <ClCompile Include="Problems\66_PlusOne.cpp" />
+    <ClCompile Include="Problems\81_SearchInRotatedSortedArrayII.cpp" />
     <ClCompile Include="Problems\852_PeakIndexInAMountainArray.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

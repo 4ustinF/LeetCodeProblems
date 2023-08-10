@@ -57,5 +57,8 @@
     <ClCompile Include="Problems\2616_MinimizeTheMaximumDifferenceOfPairs.cpp">
       <Filter>Problems</Filter>
     </ClCompile>
+    <ClCompile Include="Problems\81_SearchInRotatedSortedArrayII.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
