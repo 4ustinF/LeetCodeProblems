@@ -60,5 +60,8 @@
     <ClCompile Include="Problems\81_SearchInRotatedSortedArrayII.cpp">
       <Filter>Problems</Filter>
     </ClCompile>
+    <ClCompile Include="Problems\518_CoinChangeII.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
