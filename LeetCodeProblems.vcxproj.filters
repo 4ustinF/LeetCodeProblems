@@ -66,5 +66,8 @@
     <ClCompile Include="Problems\63_UniquePathsII.cpp">
       <Filter>Problems</Filter>
     </ClCompile>
+    <ClCompile Include="Problems\2369_CheckIfThereIsAValidPartitionForTheArray.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
