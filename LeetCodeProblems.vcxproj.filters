@@ -69,5 +69,8 @@
     <ClCompile Include="Problems\2369_CheckIfThereIsAValidPartitionForTheArray.cpp">
       <Filter>Problems</Filter>
     </ClCompile>
+    <ClCompile Include="Problems\215_KthLargestElementInAnArray.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
