@@ -41,6 +41,7 @@
     <ClCompile Include="Problems\66_PlusOne.cpp" />
     <ClCompile Include="Problems\81_SearchInRotatedSortedArrayII.cpp" />
     <ClCompile Include="Problems\852_PeakIndexInAMountainArray.cpp" />
+    <ClCompile Include="Problems\86_PartitionList.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
