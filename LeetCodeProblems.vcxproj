@@ -38,6 +38,7 @@
     <ClCompile Include="Problems\35_SearchInsertPosition.cpp" />
     <ClCompile Include="Problems\46_Permutations.cpp" />
     <ClCompile Include="Problems\518_CoinChangeII.cpp" />
+    <ClCompile Include="Problems\542_01_Matrix.cpp" />
     <ClCompile Include="Problems\63_UniquePathsII.cpp" />
     <ClCompile Include="Problems\66_PlusOne.cpp" />
     <ClCompile Include="Problems\81_SearchInRotatedSortedArrayII.cpp" />
