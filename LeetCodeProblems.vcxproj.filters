@@ -93,5 +93,8 @@
     <ClCompile Include="Problems\1114_PrintInOrder.cpp">
       <Filter>Problems</Filter>
     </ClCompile>
+    <ClCompile Include="Problems\1195_FizzBuzzMultithreaded.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
