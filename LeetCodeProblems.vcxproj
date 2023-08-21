@@ -42,6 +42,7 @@
     <ClCompile Include="Problems\27_RemoveElement.cpp" />
     <ClCompile Include="Problems\29_DivideTwoIntegers.cpp" />
     <ClCompile Include="Problems\35_SearchInsertPosition.cpp" />
+    <ClCompile Include="Problems\459_RepeatedSubstringPattern.cpp" />
     <ClCompile Include="Problems\46_Permutations.cpp" />
     <ClCompile Include="Problems\518_CoinChangeII.cpp" />
     <ClCompile Include="Problems\542_01_Matrix.cpp" />
