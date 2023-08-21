@@ -29,6 +29,7 @@
     <ClCompile Include="Problems\09_PalindromeNumber.cpp" />
     <ClCompile Include="Problems\1114_PrintInOrder.cpp" />
     <ClCompile Include="Problems\1115_PrintFooBarAlternately.cpp" />
+    <ClCompile Include="Problems\1116_PrintZeroEvenOdd.cpp" />
     <ClCompile Include="Problems\1195_FizzBuzzMultithreaded.cpp" />
     <ClCompile Include="Problems\11_ContainerWithMostWater.cpp" />
     <ClCompile Include="Problems\1489_FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.cpp" />
