@@ -35,6 +35,7 @@
     <ClCompile Include="Problems\1489_FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.cpp" />
     <ClCompile Include="Problems\1584_MinCostToConnectAllPoints.cpp" />
     <ClCompile Include="Problems\1615_MaximalNetworkRank.cpp" />
+    <ClCompile Include="Problems\168_ExcelSheetColumnTitle.cpp" />
     <ClCompile Include="Problems\1870_MinimumSpeedtoArriveonTime.cpp" />
     <ClCompile Include="Problems\215_KthLargestElementInAnArray.cpp" />
     <ClCompile Include="Problems\2369_CheckIfThereIsAValidPartitionForTheArray.cpp" />

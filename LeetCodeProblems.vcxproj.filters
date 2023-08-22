@@ -105,5 +105,8 @@
     <ClCompile Include="Problems\1116_PrintZeroEvenOdd.cpp">
       <Filter>Problems</Filter>
     </ClCompile>
+    <ClCompile Include="Problems\168_ExcelSheetColumnTitle.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
