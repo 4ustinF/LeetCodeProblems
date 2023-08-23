@@ -108,5 +108,8 @@
     <ClCompile Include="Problems\168_ExcelSheetColumnTitle.cpp">
       <Filter>Problems</Filter>
     </ClCompile>
+    <ClCompile Include="Problems\767_ReorganizeString.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
