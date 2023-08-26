@@ -111,5 +111,8 @@
     <ClCompile Include="Problems\767_ReorganizeString.cpp">
       <Filter>Problems</Filter>
     </ClCompile>
+    <ClCompile Include="Problems\646_MaximumLengthOfPairChain.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

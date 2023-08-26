@@ -49,6 +49,7 @@
     <ClCompile Include="Problems\518_CoinChangeII.cpp" />
     <ClCompile Include="Problems\542_01_Matrix.cpp" />
     <ClCompile Include="Problems\63_UniquePathsII.cpp" />
+    <ClCompile Include="Problems\646_MaximumLengthOfPairChain.cpp" />
     <ClCompile Include="Problems\66_PlusOne.cpp" />
     <ClCompile Include="Problems\767_ReorganizeString.cpp" />
     <ClCompile Include="Problems\81_SearchInRotatedSortedArrayII.cpp" />
