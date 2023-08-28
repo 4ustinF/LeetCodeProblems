@@ -114,5 +114,8 @@
     <ClCompile Include="Problems\646_MaximumLengthOfPairChain.cpp">
       <Filter>Problems</Filter>
     </ClCompile>
+    <ClCompile Include="Problems\225_ImplementStackUsingQueues.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
