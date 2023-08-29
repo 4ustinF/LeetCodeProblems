@@ -41,6 +41,7 @@
     <ClCompile Include="Problems\225_ImplementStackUsingQueues.cpp" />
     <ClCompile Include="Problems\2369_CheckIfThereIsAValidPartitionForTheArray.cpp" />
     <ClCompile Include="Problems\239_SlidingWindowMaximum.cpp" />
+    <ClCompile Include="Problems\2483_MinimumPenaltyForAShop.cpp" />
     <ClCompile Include="Problems\2616_MinimizeTheMaximumDifferenceOfPairs.cpp" />
     <ClCompile Include="Problems\27_RemoveElement.cpp" />
     <ClCompile Include="Problems\29_DivideTwoIntegers.cpp" />

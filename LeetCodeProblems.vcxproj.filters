@@ -117,5 +117,8 @@
     <ClCompile Include="Problems\225_ImplementStackUsingQueues.cpp">
       <Filter>Problems</Filter>
     </ClCompile>
+    <ClCompile Include="Problems\2483_MinimumPenaltyForAShop.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
