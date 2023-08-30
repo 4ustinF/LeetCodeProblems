@@ -39,6 +39,7 @@
     <ClCompile Include="Problems\1870_MinimumSpeedtoArriveonTime.cpp" />
     <ClCompile Include="Problems\215_KthLargestElementInAnArray.cpp" />
     <ClCompile Include="Problems\225_ImplementStackUsingQueues.cpp" />
+    <ClCompile Include="Problems\2366_MinimumReplacementsToSortTheArray.cpp" />
     <ClCompile Include="Problems\2369_CheckIfThereIsAValidPartitionForTheArray.cpp" />
     <ClCompile Include="Problems\239_SlidingWindowMaximum.cpp" />
     <ClCompile Include="Problems\2483_MinimumPenaltyForAShop.cpp" />

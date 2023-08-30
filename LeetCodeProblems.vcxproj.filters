@@ -120,5 +120,8 @@
     <ClCompile Include="Problems\2483_MinimumPenaltyForAShop.cpp">
       <Filter>Problems</Filter>
     </ClCompile>
+    <ClCompile Include="Problems\2366_MinimumReplacementsToSortTheArray.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
