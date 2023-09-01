@@ -123,5 +123,11 @@
     <ClCompile Include="Problems\2366_MinimumReplacementsToSortTheArray.cpp">
       <Filter>Problems</Filter>
     </ClCompile>
+    <ClCompile Include="Problems\1326_MinimumNumberOfTapsToOpenToWaterAGarden.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="Problems\338_CountingBits.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -32,6 +32,7 @@
     <ClCompile Include="Problems\1116_PrintZeroEvenOdd.cpp" />
     <ClCompile Include="Problems\1195_FizzBuzzMultithreaded.cpp" />
     <ClCompile Include="Problems\11_ContainerWithMostWater.cpp" />
+    <ClCompile Include="Problems\1326_MinimumNumberOfTapsToOpenToWaterAGarden.cpp" />
     <ClCompile Include="Problems\1489_FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.cpp" />
     <ClCompile Include="Problems\1584_MinCostToConnectAllPoints.cpp" />
     <ClCompile Include="Problems\1615_MaximalNetworkRank.cpp" />
@@ -46,6 +47,7 @@
     <ClCompile Include="Problems\2616_MinimizeTheMaximumDifferenceOfPairs.cpp" />
     <ClCompile Include="Problems\27_RemoveElement.cpp" />
     <ClCompile Include="Problems\29_DivideTwoIntegers.cpp" />
+    <ClCompile Include="Problems\338_CountingBits.cpp" />
     <ClCompile Include="Problems\35_SearchInsertPosition.cpp" />
     <ClCompile Include="Problems\459_RepeatedSubstringPattern.cpp" />
     <ClCompile Include="Problems\46_Permutations.cpp" />
